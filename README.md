@@ -17,3 +17,8 @@ Un cours de base pour programmation pourrait aborder les connaissances suivants
 * Boucles
 * Listes en comprehension (Python)
 * Modules
+
+## Projets :
+- Nuage de mots
+- Carte avec villes
+- Flashcards créés d'un texte
