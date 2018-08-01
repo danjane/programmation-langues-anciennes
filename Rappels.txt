@@ -1,0 +1,9 @@
+pip install --upgrade pip
+
+mkdir cltk
+cd cltk
+python3 -m venv venv
+source venv/bin/activate
+pip install cltk bs4 lxml jupyter geopy
+jupyter notebook
+
